@@ -13,7 +13,16 @@
       <pubDate>Fri, 13 Jan 2023 23:32:58 +0800</pubDate>
       
       <guid>http://yinghei.github.io/ren-relaxing/posts/second-post/</guid>
-      <description>This is 2nd post Test GitHub Actions</description>
+      <description>This is 2nd post Test GitHub Actions Chinese</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://yinghei.github.io/ren-relaxing/posts/first-post/</link>
+      <pubDate>Fri, 13 Jan 2023 23:13:23 +0800</pubDate>
+      
+      <guid>http://yinghei.github.io/ren-relaxing/posts/first-post/</guid>
+      <description>1st post</description>
     </item>
     
   </channel>
