@@ -5,24 +5,45 @@ title: "Ren Relaxing"
 # 新增 theme 的名稱
 theme: 'PaperMod'
 
-# Profile mode
+
 params:
+    defaultTheme: light
+    displayFullLangName: true
+    
+    # Profile mode
     profileMode:
         enabled: true
         title: "<Ren Relaxing>" # optional default will be site title
-        subtitle: "A | B | C | D"
+        subtitle: "Keep  | Drawing | Productivity"
         imageUrl: "https://raw.githubusercontent.com/yinghei/ren-relaxing/master/static/img/black-cat.jpg" # optional
         imageTitle: "<alt for image>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-          - name: Post
+          - name: Blogs
             url: "posts"
-          - name: Github
-            url: "https://github.com/"
+          - name: Gallery
+            url: "gallery"
 
     socialIcons: # optional
       - name: "github"
         url: "https://github.com/YingHei"
       - name: "twitter"
         url: "<link2>"
+    
+    ShowReadingTime: true
+
+    editPost:
+      URL: "https://github.com/YingHei/ren-relaxing/tree/tree/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true
+    
+# DefaultContentLanguage: zh
+languages:
+  en:
+    languageName: English
+    weight: 1
+  zh-tw:
+    languageName: 繁
+    weight: 2
+

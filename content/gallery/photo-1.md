@@ -5,6 +5,5 @@ draft: false
 ---
 
 This is 2nd post 
-Test GitHub Actions 
-Chinese
+Test GitHub Actions
 
