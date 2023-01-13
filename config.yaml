@@ -11,7 +11,7 @@ params:
         enabled: true
         title: "<Ren Relaxing>" # optional default will be site title
         subtitle: "A | B | C | D"
-        imageUrl: "images/black-cat.jpg" # optional
+        imageUrl: "https://github.com/YingHei/ren-relaxing/blob/master/resources/_gen/images/black-cat.jpg" # optional
         imageTitle: "<alt for image>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
