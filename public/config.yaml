@@ -1,0 +1,6 @@
+baseURL: "http://yinghei.github.com/ren-relaxing"
+languageCode: "en-us"
+title: "Ren Relaxing"
+
+# 新增 theme 的名稱
+theme: 'PaperMod'
