@@ -17,7 +17,7 @@ params:
         imageHeight: 120 # custom size
         buttons:
           - name: Post
-            url: "/post"
+            url: "posts"
           - name: Github
             url: "https://github.com/"
 
