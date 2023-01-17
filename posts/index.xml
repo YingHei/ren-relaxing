@@ -17,12 +17,18 @@
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>http://yinghei.github.io/ren-relaxing/posts/first-post/</link>
+      <title>Basic Markdown</title>
+      <link>http://yinghei.github.io/ren-relaxing/posts/basic-markdown/</link>
       <pubDate>Fri, 13 Jan 2023 23:13:23 +0800</pubDate>
       
-      <guid>http://yinghei.github.io/ren-relaxing/posts/first-post/</guid>
-      <description>1st post</description>
+      <guid>http://yinghei.github.io/ren-relaxing/posts/basic-markdown/</guid>
+      <description>Markdown is very easy to learn and write. It is broadly used in websites, notes, documents, etc.
+In this article, we will go through some basic syntax of markdown to help you get started.
+I strongly encourage you to take this interactive tutorial from Markdown Tutorial.
+Styling Text Surround text with
+one * or _ to make it italic
+two * or _ to make it bold
+three * or _ to make it italic and bold, or you can mix and match it</description>
     </item>
     
   </channel>
