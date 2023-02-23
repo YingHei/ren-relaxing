@@ -1,6 +1,6 @@
-baseURL: "http://yinghei.github.io/ren-relaxing"
+baseURL: "http://yinghei.github.com/ren-to-ramble"
 languageCode: "en-us"
-title: "Ren Relaxing"
+title: "Ren to Ramble"
 
 # 新增 theme 的名稱
 theme: 'PaperMod'
@@ -13,9 +13,9 @@ params:
     # Profile mode
     profileMode:
         enabled: true
-        title: "<Ren Relaxing>" # optional default will be site title
+        title: "<Ren to Ramble>" # optional default will be site title
         subtitle: "Keep  | Drawing | Productivity"
-        imageUrl: "https://raw.githubusercontent.com/yinghei/ren-relaxing/master/static/img/black-cat.jpg" # optional
+        imageUrl: "https://raw.githubusercontent.com/yinghei/ren-to-ramble/master/static/img/black-cat.jpg" # optional
         imageTitle: "<alt for image>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
