@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yinghei.github.com/ren-to-ramble/gallery/</loc>
+    <loc>https://yinghei.github.io/ren-to-ramble/gallery/</loc>
     <lastmod>2023-01-13T23:32:58+08:00</lastmod>
   </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/posts/</loc>
-    <lastmod>2023-01-13T23:32:58+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://yinghei.github.com/ren-to-ramble/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://yinghei.github.com/ren-to-ramble/posts/"
-                />
-  </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/</loc>
+    <loc>https://yinghei.github.io/ren-to-ramble/posts/</loc>
     <lastmod>2023-01-13T23:32:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://yinghei.github.com/ren-to-ramble/zh-tw/"
+                href="https://yinghei.github.io/ren-to-ramble/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://yinghei.github.com/ren-to-ramble/"
+                href="https://yinghei.github.io/ren-to-ramble/posts/"
                 />
   </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/gallery/photo-1/</loc>
-    <lastmod>2023-01-13T23:32:58+08:00</lastmod>
-  </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/posts/second-post/</loc>
+    <loc>https://yinghei.github.io/ren-to-ramble/</loc>
     <lastmod>2023-01-13T23:32:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://yinghei.github.com/ren-to-ramble/zh-tw/posts/second-post/"
+                href="https://yinghei.github.io/ren-to-ramble/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://yinghei.github.com/ren-to-ramble/posts/second-post/"
+                href="https://yinghei.github.io/ren-to-ramble/"
                 />
   </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/posts/basic-markdown/</loc>
+    <loc>https://yinghei.github.io/ren-to-ramble/gallery/photo-1/</loc>
+    <lastmod>2023-01-13T23:32:58+08:00</lastmod>
+  </url><url>
+    <loc>https://yinghei.github.io/ren-to-ramble/posts/second-post/</loc>
+    <lastmod>2023-01-13T23:32:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://yinghei.github.io/ren-to-ramble/zh-tw/posts/second-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yinghei.github.io/ren-to-ramble/posts/second-post/"
+                />
+  </url><url>
+    <loc>https://yinghei.github.io/ren-to-ramble/posts/basic-markdown/</loc>
     <lastmod>2023-01-13T23:13:23+08:00</lastmod>
   </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/categories/</loc>
+    <loc>https://yinghei.github.io/ren-to-ramble/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://yinghei.github.com/ren-to-ramble/zh-tw/categories/"
+                href="https://yinghei.github.io/ren-to-ramble/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://yinghei.github.com/ren-to-ramble/categories/"
+                href="https://yinghei.github.io/ren-to-ramble/categories/"
                 />
   </url><url>
-    <loc>http://yinghei.github.com/ren-to-ramble/tags/</loc>
+    <loc>https://yinghei.github.io/ren-to-ramble/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://yinghei.github.com/ren-to-ramble/zh-tw/tags/"
+                href="https://yinghei.github.io/ren-to-ramble/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://yinghei.github.com/ren-to-ramble/tags/"
+                href="https://yinghei.github.io/ren-to-ramble/tags/"
                 />
   </url>
 </urlset>

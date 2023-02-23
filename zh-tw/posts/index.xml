@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Ren to Ramble</title>
-    <link>http://yinghei.github.com/ren-to-ramble/zh-tw/posts/</link>
+    <link>https://yinghei.github.io/ren-to-ramble/zh-tw/posts/</link>
     <description>Recent content in Posts on Ren to Ramble</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 23:32:58 +0800</lastBuildDate><atom:link href="http://yinghei.github.com/ren-to-ramble/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 23:32:58 +0800</lastBuildDate><atom:link href="https://yinghei.github.io/ren-to-ramble/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>http://yinghei.github.com/ren-to-ramble/zh-tw/posts/second-post/</link>
+      <link>https://yinghei.github.io/ren-to-ramble/zh-tw/posts/second-post/</link>
       <pubDate>Fri, 13 Jan 2023 23:32:58 +0800</pubDate>
       
-      <guid>http://yinghei.github.com/ren-to-ramble/zh-tw/posts/second-post/</guid>
+      <guid>https://yinghei.github.io/ren-to-ramble/zh-tw/posts/second-post/</guid>
       <description>This is 2nd post Test GitHub Actions Chinese</description>
     </item>
     
